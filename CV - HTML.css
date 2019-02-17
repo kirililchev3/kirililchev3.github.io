@@ -1,0 +1,204 @@
+
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+
+
+body{
+    background-color: grey;
+}
+.page{
+    width: 780px;
+    margin: auto;
+    font-family: 'Source Code Pro',Calibri,Tahoma,sans-serif;
+    font-size: 16px;
+    border: 5px solid #3388CC;
+    border-radius: 10px;
+    box-shadow: 2px 3px 4px black;
+    padding: 20px;
+    background-color: white;
+}
+.infophoto{
+    height: 250px;
+}
+.info{
+    float: left;
+
+}
+.photo{
+    float: right;
+
+}
+.section{
+    margin-bottom: 70px;
+    text-align: justify;
+}
+.sec-years, .sec-skills{
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+.sec-description{
+    margin-left: 150px;
+    margin-top: 37px;
+}
+
+h2{
+    font-size: 28px;
+    color: #3388BB;
+    border-bottom: 3px solid #3388BB;
+    text-align: center;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.name{
+    font-size: 22px;
+}
+
+.first{
+    margin-top: 14px;
+    margin-bottom: 120px;
+}
+.second{
+    margin-bottom: 35px;
+}
+.third{
+    margin-bottom: 113px;
+}
+#education{
+    padding-right: 60px;
+}
+.firstone{
+    margin-top: 16px;
+    margin-bottom: 35px;
+}
+.sec-skills{
+    padding-right: 30px;
+    padding: 20px;
+}
+
+.one{
+    margin-top: -15px;
+    margin-bottom: -5px;
+}
+.two{
+    margin-bottom: 90px;
+}
+.three{
+    margin-bottom: 65px;
+}
+.additional-info{
+    display: inline-block;
+}
+button{
+    cursor: pointer;
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: box-shadow;
+    transition-property: box-shadow;
+    width: 185px;
+    border: 1px solid #3388BB;
+    border-radius: 10px;
+    color: black;
+    font-size: 80%;
+    font-weight: bold;
+    padding: 10px;
+}
+button:hover, button:focus, button:active{
+
+    box-shadow: 0 20px 20px -10px rgba(0, 0, 0, 0.5);
+}
+
+.wanted {
+    font-weight: bold;
+    font-size: 20px;
+}
+.sec-description-wanted{
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+
+.linkedin{
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+}
+
+
+.linkedin:hover, .linkedin:focus, .linkedin:active{
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9);
+}
+
+
+
+.github{
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+}
+
+
+.github:hover, .github:focus, .github:active{
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9);
+}
+
+
+
+i{
+    color: black;
+    background: white;
+    float: left;
+    margin-right: 5px;
+}
+.adress {
+    display: inline-block;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin: auto;
+}
+.mobile{
+    display: inline-block;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin: auto;
+}
+.email{
+    display: inline-block;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
